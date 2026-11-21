@@ -2,7 +2,7 @@
 
 Un juego corto para la sega genesis hecho en el engine de SGDK, me falta un monton de cosas
 
-en out esta la rom del momento asi se ahorran el pedo de compilar todo, con que me tomo un vergo configurar SGDK con el plugin de genesis code del visual studio, que paja.
+por ahi hay un release con lo que llevo del momento, tiene que haber un release diario
 
 tendria que haber un release por ahi de mañana
 
