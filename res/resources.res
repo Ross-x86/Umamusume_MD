@@ -5,3 +5,6 @@ SPRITE spr_uma3 "umas/uma3.png" 8 8  NONE
 SPRITE spr_uma4 "umas/uma4.png" 8 8  NONE
 SPRITE spr_logo "logo.png" 12 4
 SPRITE spr_cursor "cursor.png" 2 4
+
+//Tilesets
+IMAGE img_font "font.png" NONE
